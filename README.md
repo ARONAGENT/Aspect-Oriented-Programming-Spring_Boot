@@ -15,6 +15,8 @@ To start using Aspect-Oriented Programming (AOP) in a Spring Boot application, f
    - Import the project as a Maven project.
    - Ensure the dependencies are correctly installed.
 
+3. **PDF Notes (Extra)** -> [Aspect Oriented Programming .pdf](https://github.com/user-attachments/files/18894335/Aspect.Oriented.Programming.pdf)
+
 ---
 
 ## 1. Introduction to Aspect-Oriented Programming (AOP)
